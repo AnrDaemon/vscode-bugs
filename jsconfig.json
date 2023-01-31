@@ -7,7 +7,6 @@
         "target": "ES6",
         "allowJs": true,
         "checkJs": true,
-        "baseUrl": "${workspaceFolder}/app",
-        "paths": {"/lib/": ["${workspaceFolder}/app/lib/"]}
+        "baseUrl": "./app"
     }
 }
